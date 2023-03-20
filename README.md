@@ -1,3 +1,11 @@
+# Description
+
+- GO-Food is an innovative food ordering website that allows you to view a wide variety of food items, select and order the same through our website.
+- Login and Signup page for authetication of the user.
+- A specialized search box is incorported to surf the website easily.
+- User can add and remove food items from his/her cart.
+- Can checkout the order from the cart.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
