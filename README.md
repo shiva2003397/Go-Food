@@ -5,6 +5,7 @@
 - A specialized search box is incorported to surf the website easily.
 - User can add and remove food items from his/her cart.
 - Can checkout the order from the cart.
+- User can see all his/her previous orders from the MyCart Section.
 
 # Getting Started with Create React App
 
