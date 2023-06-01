@@ -1,3 +1,15 @@
+# Description
+
+GO-Food is an innovative food ordering website designed specifically for college canteens. It allows students to browse through a wide variety of food items, select their desired options, and place orders directly through our website. The main objective of this platform is to save students' time by eliminating the need to wait for their orders at the canteen. Once an order is placed, users will receive notifications via messages as soon as their order is ready. They have the option to either have the food delivered to their rooms or collect it personally from the canteen.
+
+To access the website's features, users will need to go through a login and signup process for authentication. This ensures that only authorized users can use the services. To enhance the user experience, a specialized search box is incorporated into the website, allowing students to easily explore and find their desired food items.
+
+Once students find the food items they want to order, they can conveniently add or remove items from their cart. When they are ready to finalize their order, they can proceed to the checkout process directly from the cart. The checkout process will include providing necessary details for delivery or self-collection, selecting a payment method, and confirming the order.
+
+Additionally, users can access a dedicated "MyCart" section where they can view their previous orders. This section provides a comprehensive overview of their order history, including details such as the date of the order, the items ordered, and the option to reorder their favorite items easily.
+
+Overall, GO-Food aims to streamline the food ordering process for college students, offering convenience, efficiency, and a user-friendly experience.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
